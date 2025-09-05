@@ -1,0 +1,11 @@
+# Dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# SQLite database
+/db/dramabox.db
+
+# Original service file
+/services/dramaService.js
